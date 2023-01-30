@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    font-size: 4em;
+    text-shadow: 2px 2px 4px black;
+}
+span{
+   color: #be1c37;
+}
+input{
+    width: 30%;
+    margin: 10px;
+}
+form{
+    margin-top: 2%;
+}
+#submit{
+    background-color: #be1c37;
+    color: white;
+    width: 20%;
+    margin: 25px;
+    margin-left: 25%;
+}
